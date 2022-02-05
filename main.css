@@ -1,0 +1,5 @@
+body {
+    background: linear-gradient(hsl(350, 74%, 52%),pink);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
